@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "55ffc0ca54629f19ef2076007bcd6f7e"
+build_time: [1592427225, 746682000]
+inputs:
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/Controller/WeatherViewController.swift": [1582072719, 0]
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/Model/WeatherData.swift": [1582071263, 0]
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/AppDelegate.swift": [1582071171, 0]
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/Model/WeatherManager.swift": [1583881581, 415615201]
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/Model/WeatherModel.swift": [1583983982, 618386388]
+  "/Users/aakash/Desktop/Xcode Projects/TempApp/TempApp/SceneDelegate.swift": [1582071209, 0]
